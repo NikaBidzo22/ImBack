@@ -6,6 +6,7 @@ body {
     align-items: center;
     justify-content: center;
     font-family: 'Poppins', sans-serif;
+    overflow: hidden;
 }
 
 h1 { 
@@ -152,5 +153,9 @@ p {
     
     #but {
         width: 240px;
+    }
+
+    body {
+        height: 800px;
     }
 }
