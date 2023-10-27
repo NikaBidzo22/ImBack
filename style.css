@@ -156,6 +156,7 @@ p {
     }
 
     body {
-        height: 800px;
-    }
+        display: block;
+        height: 1800px;
+    } 
 }
